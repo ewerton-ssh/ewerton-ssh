@@ -11,6 +11,7 @@
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="SocketIo" height="30" width="40" src="https://icongr.am/simple/socketio.svg?size=128&color=ffffff&colored=false" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/simple/docker.svg?size=128&color=ffffff&colored=false" />
 </div>
 
 <br> 
