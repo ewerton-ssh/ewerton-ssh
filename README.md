@@ -28,4 +28,4 @@
 <div>
   
 </div>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ewerton-ssh)](https://github.com/madushadhanushka/github-readme)
+[KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ewerton-ssh)](https://github.com/madushadhanushka/github-readme)
