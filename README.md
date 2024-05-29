@@ -26,6 +26,5 @@
 </div>
 
 <div>
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewerton-ssh&theme=tokyonight" alt="myprofile"/>
 </div>
-![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
