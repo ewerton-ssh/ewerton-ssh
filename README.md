@@ -12,7 +12,6 @@
   <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="SocketIo" height="30" width="40" src="https://icongr.am/simple/socketio.svg?size=128&color=ffffff&colored=false" />
   <img align="center" alt="Docker" height="30" width="40" src="https://icongr.am/simple/docker.svg?size=128&color=1c60e6&colored=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ewerton-ssh&theme=tokyonight" alt="myprofile" />
 </div>
 
 <br> 
@@ -24,7 +23,4 @@
   <a href="mailto:ewertonq.lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/a86x48EDvH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/ewerton.ssh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-
-<div>
 </div>
